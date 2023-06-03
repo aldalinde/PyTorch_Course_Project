@@ -16,5 +16,5 @@ downloads numpy images, formes Dataset and loads it to the Net model. Training d
 accuracy 99.8% on test dataset. Net model weights saved to file/
 
 **gesture_model_use.ipynb**
-containes several functions for getting from file, visualising, processing new images, predicting
+contains several functions for new images: getting from file, visualising, processing, predicting
 their class and showing prediction in output
