@@ -1,6 +1,10 @@
 # PyTorch_Course_Project
 Hand gesture recognition model traind on database, composed by a set of near infrared images acquired by the Leap Motion sensor.
 
+**The training images are LEAP Motion Sensor infrared captures. Such photoes can't be made by a standard mobile camera
+As we can see the model works quite well on test dataset (99.8% accuracy), so it should be used for the corresponding
+task of classifying infrared motion sensor's output**
+
 
 **model_Net.py**
 contains two classes:
